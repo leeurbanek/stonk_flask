@@ -173,7 +173,7 @@ beta*.*
 *.bak
 *.log
 debug.*
-
+.st_f
 #.adblock_link
 #*.sqlite3
 #migrations/
